@@ -1,0 +1,255 @@
+2019-07-11 10:09:45 WARN  DataDictionary:45 - WARNING: The key 'vPlusProdutoOdonto' doesn't exist in the dictionary
+2019-07-11 10:09:54 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.navigate().to("https://s10apl158.sulamerica.br/SaudeFak . . . '' : target exception
+2019-07-11 10:16:33 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.navigate().to("https://s10apl158.sulamerica.br/SaudeFak . . . '' : target exception
+2019-07-11 10:16:54 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.navigate().to("https://s10apl158.sulamerica.br/SaudeFak . . . '' : target exception
+2019-07-11 10:17:01 INFO  EFASelenium:387 - Error:2 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.navigate().to("https://s10apl158.sulamerica.br/SaudeFak . . . '' : target exception
+2019-07-11 10:56:59 WARN  DataDictionary:45 - WARNING: The key 'vPlusProdutoOdonto' doesn't exist in the dictionary
+2019-07-11 10:57:02 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.navigate().to("https://s10apl158.sulamerica.br/SaudeFak . . . '' : target exception
+2019-07-11 11:47:37 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : Method Invocation com.everis.EFA.cv_driver.findElement
+2019-07-11 11:47:41 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 11:47:42 INFO  EFASelenium:387 - Error:2 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 11:47:43 INFO  EFASelenium:387 - Error:3 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 11:47:44 INFO  EFASelenium:387 - Error:4 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 11:47:46 INFO  EFASelenium:387 - Error:5 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 11:47:47 INFO  EFASelenium:387 - Error:6 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 11:47:48 INFO  EFASelenium:387 - Error:7 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 11:47:49 INFO  EFASelenium:387 - Error:8 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 11:47:50 INFO  EFASelenium:387 - Error:9 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 11:47:51 INFO  EFASelenium:387 - Error:10 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 11:47:52 ERROR EFASelenium:404 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception : at Line: 1 : in file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : .click ( ) 
+
+Target exception: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'SAO-801S5V2', ip: '10.228.200.201', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\kmartmag\AppData\Local\Temp\scoped_dir16060_12725}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:54531}, acceptInsecureCerts=false, browserVersion=75.0.3770.100, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: 8b11aa9d5c2577a980a9ac7a7ea61849
+
+	at bsh.BSHPrimarySuffix.doSuffix(Unknown Source)
+	at bsh.BSHPrimaryExpression.eval(Unknown Source)
+	at bsh.BSHPrimaryExpression.eval(Unknown Source)
+	at bsh.Interpreter.eval(Unknown Source)
+	at bsh.Interpreter.eval(Unknown Source)
+	at bsh.Interpreter.eval(Unknown Source)
+	at com.everis.EFASelenium.executeAction(EFASelenium.java:380)
+	at com.everis.EFA.cs_executeAction(EFA.java:188)
+	at com.everis.EFA.cs_executeAction(EFA.java:182)
+	at com.everis.EFA.executeAction(EFA.java:303)
+	at com.everis.EFA.executeAction(EFA.java:491)
+	at pages.sulamerica.Cotacao.identfCarteira(Cotacao.java:176)
+	at cotador.sulamerica.Empresarial.script(Empresarial.java:104)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at cotador.sulamerica.Starter.main(Starter.java:12)
+
+2019-07-11 11:47:52 WARN  DataDictionary:45 - WARNING: The key 'vEntidadeClasse' doesn't exist in the dictionary
+2019-07-11 14:32:47 INFO  EFASelenium:680 - Attempt:1 - //input[contains(@id,'InpEV')]Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : Method Invocation com.everis.EFA.cv_driver.findElement
+2019-07-11 14:32:54 INFO  EFASelenium:680 - Attempt:2 - //input[contains(@id,'InpEV')]Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : Method Invocation com.everis.EFA.cv_driver.findElement
+2019-07-11 14:34:10 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 14:34:11 INFO  EFASelenium:387 - Error:2 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 14:34:12 INFO  EFASelenium:387 - Error:3 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 14:34:13 INFO  EFASelenium:387 - Error:4 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 14:34:14 INFO  EFASelenium:387 - Error:5 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 14:34:15 INFO  EFASelenium:387 - Error:6 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 14:34:16 INFO  EFASelenium:387 - Error:7 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 14:34:17 INFO  EFASelenium:387 - Error:8 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 14:34:19 INFO  EFASelenium:387 - Error:9 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 14:34:20 INFO  EFASelenium:387 - Error:10 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception
+2019-07-11 14:34:21 ERROR EFASelenium:404 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : target exception : at Line: 1 : in file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : .click ( ) 
+
+Target exception: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'SAO-801S5V2', ip: '10.228.200.201', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\kmartmag\AppData\Local\Temp\scoped_dir17472_9601}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:63781}, acceptInsecureCerts=false, browserVersion=75.0.3770.100, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: 53e12f05baf6e06d3021d87f32df5eb2
+
+	at bsh.BSHPrimarySuffix.doSuffix(Unknown Source)
+	at bsh.BSHPrimaryExpression.eval(Unknown Source)
+	at bsh.BSHPrimaryExpression.eval(Unknown Source)
+	at bsh.Interpreter.eval(Unknown Source)
+	at bsh.Interpreter.eval(Unknown Source)
+	at bsh.Interpreter.eval(Unknown Source)
+	at com.everis.EFASelenium.executeAction(EFASelenium.java:380)
+	at com.everis.EFA.cs_executeAction(EFA.java:188)
+	at com.everis.EFA.cs_executeAction(EFA.java:182)
+	at com.everis.EFA.executeAction(EFA.java:303)
+	at com.everis.EFA.executeAction(EFA.java:491)
+	at pages.sulamerica.Cotacao.identfCarteira(Cotacao.java:180)
+	at cotador.sulamerica.ASO.script(ASO.java:102)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at cotador.sulamerica.Starter.main(Starter.java:11)
+
+2019-07-11 14:40:12 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.manage().deleteAllCookies();'' : target exception
+2019-07-11 14:43:30 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : Method Invocation com.everis.EFA.cv_driver.findElement
+2019-07-11 14:43:53 INFO  EFASelenium:680 - Attempt:1 - //label[contains(@id,'blRazaoSocial')]Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//label[conta . . . '' : Method Invocation com.everis.EFA.cv_driver.findElement
+2019-07-11 14:44:26 WARN  DataDictionary:45 - WARNING: The key 'vAgregados44a48M' doesn't exist in the dictionary
+2019-07-11 14:44:26 WARN  DataDictionary:45 - WARNING: The key 'vAgregados44a48F' doesn't exist in the dictionary
+2019-07-11 14:44:35 INFO  EFASelenium:680 - Attempt:1 - (//span[text()='0-18']/../../..//input)[1]Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//span[text( . . . '' : Method Invocation com.everis.EFA.cv_driver.findElement
+2019-07-11 14:44:36 INFO  EFASelenium:680 - Attempt:2 - (//span[text()='0-18']/../../..//input)[1]Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//span[text( . . . '' : Method Invocation com.everis.EFA.cv_driver.findElement
+2019-07-11 14:44:37 INFO  EFASelenium:680 - Attempt:3 - (//span[text()='0-18']/../../..//input)[1]Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//span[text( . . . '' : Method Invocation com.everis.EFA.cv_driver.findElement
+2019-08-12 18:13:23 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.navigate().to("https://s10apl158.sulamerica.br/SaudeFak . . . '' : target exception
+2019-08-12 18:14:35 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception
+2019-08-12 18:14:36 INFO  EFASelenium:387 - Error:2 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception
+2019-08-12 18:14:37 INFO  EFASelenium:387 - Error:3 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception
+2019-08-12 18:14:38 INFO  EFASelenium:387 - Error:4 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception
+2019-08-12 18:14:39 INFO  EFASelenium:387 - Error:5 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception
+2019-08-12 18:14:41 INFO  EFASelenium:387 - Error:6 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception
+2019-08-12 18:14:42 INFO  EFASelenium:387 - Error:7 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception
+2019-08-12 18:14:43 INFO  EFASelenium:387 - Error:8 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception
+2019-08-12 18:14:44 INFO  EFASelenium:387 - Error:9 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception
+2019-08-12 18:14:45 INFO  EFASelenium:387 - Error:10 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception
+2019-08-12 18:14:46 ERROR EFASelenium:404 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : target exception : at Line: 1 : in file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("(//div[@class . . . '' : .click ( ) 
+
+Target exception: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=76.0.3809.100)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'SAO-801S5V2', ip: '10.228.201.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\kmartmag\AppData\Local\Temp\scoped_dir1368_30430}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:57239}, acceptInsecureCerts=false, browserVersion=76.0.3809.100, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: 262c89accb00c23243e61ba1868fa079
+
+	at bsh.BSHPrimarySuffix.doSuffix(Unknown Source)
+	at bsh.BSHPrimaryExpression.eval(Unknown Source)
+	at bsh.BSHPrimaryExpression.eval(Unknown Source)
+	at bsh.Interpreter.eval(Unknown Source)
+	at bsh.Interpreter.eval(Unknown Source)
+	at bsh.Interpreter.eval(Unknown Source)
+	at com.everis.EFASelenium.executeAction(EFASelenium.java:380)
+	at com.everis.EFA.cs_executeAction(EFA.java:188)
+	at com.everis.EFA.cs_executeAction(EFA.java:182)
+	at com.everis.EFA.executeAction(EFA.java:303)
+	at com.everis.EFA.executeAction(EFA.java:491)
+	at sulamerica.pages.Acesso.selectVendaApoio(Acesso.java:101)
+	at sulamerica.cotador.Empresarial.script(Empresarial.java:81)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at sulamerica.cotador.Starter.main(Starter.java:12)
+
+2019-08-12 18:16:13 INFO  EFASelenium:387 - Error:1 - Sourced file: inline evaluation of: ``com.everis.EFA.cv_driver.findElement(org.openqa.selenium.By.xpath("//input[conta . . . '' : Method Invocation com.everis.EFA.cv_driver.findElement

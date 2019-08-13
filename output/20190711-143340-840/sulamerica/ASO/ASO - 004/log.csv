@@ -1,0 +1,21 @@
+Step;Description;Expected Result;Obtained Result;Duration;Evidence
+1;Navigate to url: "https://s10apl158.sulamerica.br/SaudeFake/PortalSOLFake.jsf";The page was successfully loaded;The page was successfully loaded;00:00:00;N/A
+2;Do the action: isElementPresent(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;N/A
+3;Do the action: isElementPresent(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;N/A
+4;Do the action: isElementPresent(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;N/A
+5;Click in '//input[contains(@id,'InpEV')]';The object was successfully clicked;The object was successfully clicked;00:00:00;N/A
+6;Type '30023' in the field '//input[contains(@id,'InpEV')]';The field was successfully filled;The field was successfully filled;00:00:00;N/A
+7;Do the action: hover(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/001_hover.png
+8;Click in '//input[contains(@id,'BtnOk')]';The object was successfully clicked;The object was successfully clicked;00:00:03;N/A
+9;Click in '//input[contains(@id,'BtnEntrar')]';The object was successfully clicked;The object was successfully clicked;00:00:02;evidence/005_click.png
+10;Click in '//div[contains(@id,'ButtonNewPrice')]';The object was successfully clicked;The object was successfully clicked;00:00:00;N/A
+11;Click in '//input[contains(@id,'InpQuantidadeVidasSaude')]';The object was successfully clicked;The object was successfully clicked;00:00:02;N/A
+12;Do the action: clear(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;N/A
+13;Type '550' in the field '//input[contains(@id,'InpQuantidadeVidasSaude')]';The field was successfully filled;The field was successfully filled;00:00:00;N/A
+14;Click in '//input[contains(@id,'InpQuantidadeVidasSaude')]';The object was successfully clicked;The object was successfully clicked;00:00:00;N/A
+15;Click in '//input[contains(@id,'InpQuantidadeVidasOdonto')]';The object was successfully clicked;The object was successfully clicked;00:00:00;N/A
+16;Do the action: clear(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;N/A
+17;Type '550' in the field '//input[contains(@id,'InpQuantidadeVidasOdonto')]';The field was successfully filled;The field was successfully filled;00:00:00;N/A
+18;Click in '//input[contains(@id,'TipoEmpregaticio')]';The object was successfully clicked;The object was not successfully clicked;00:00:11;N/A
+19;Click in '//input[@value='POS']';The object was successfully clicked;The object could not be clicked;00:00:00;N/A
+20;Do the action: deleteCookies(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action could not be executed;00:00:00;N/A
